@@ -7,6 +7,7 @@
  * Russian translation updated. Many thanks to Fat-Zer for correcting the mistakes.
  * Chinese translation updated. Many thanks to studentmain for rewriting the translation.
 
+ * ModuleManager updated to v3.0.6
 ### For Developers
 
 ### Known Issues
