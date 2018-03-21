@@ -338,13 +338,13 @@ This section will guide you through setting up your development environment so t
 
 #### Unity
 For building and/or debugging KSPTrajectories with Visual Studio or Unity Editor you will need to download and install the exact version of Unity Editor that was used to build the version of KSP you are working with.
-You can find out which Unity version your current KSP install is using by looking at the first line of `C:\Users\YOURUSERNAME\AppData\LocalLow\Squad\Kerbal Space Program/output_log.txt`. It should read something like this:
+You can find out which Unity version your current KSP install is using by looking at the first line of `KSP_Data/output_log.txt` (or `KSP_x64_Data/output_log.txt`). It should read something like this:
 
-    Initialize engine version: 2017.1.3p1 (02d73f71d3bd)
+    Initialize engine version: 5.4.0p4 (b15b5ae035b7)
 
-In this case, the Unity version for your KSP version is 2017.1.3p1.
+In this case, the Unity version for your KSP version is 5.4.0p4.
 
-The Unity Editor for **KSP v1.4.1** is **Unity v2017.1.3p1** and can be downloaded here: [UnityDownloadAssistant-2017.1.3p1.exe](https://beta.unity3d.com/download/02d73f71d3bd/UnityDownloadAssistant-2017.1.3p1.exe)
+The Unity Editor for **KSP v1.3.1** is **Unity v5.4.0.p4** and can be downloaded here: [UnitySetup64-5.4.0p4.exe](http://beta.unity3d.com/download/b15b5ae035b7/Windows64EditorInstaller/UnitySetup64-5.4.0p4.exe)
 
 #### Visual Studio
 
