@@ -6,7 +6,7 @@
  * Trajectories license has been changed from MIT to GPL-3.0-or-later.
  * Russian translation updated. Many thanks to Fat-Zer for correcting the mistakes.
  * Chinese translation updated. Many thanks to studentmain for rewriting the translation.
-
+ * A big cheers and a beer to Jebs_SY for his help in fixing a rendering issue on the MapView and the Target Waypoint bug.
  * ModuleManager updated to v3.0.6
 ### For Developers
 
@@ -21,7 +21,8 @@
 ### Changes since the last release
 
  * Completely new and overhauled user interface, based on the DialogGUI system.
-   Includes (automated) localizations for Russian, Spanish and Chinese (traditional). If you know any of these languages, please consider helping out with translations. Send all Thanks and Kudos to PiezPiedPy for this amazing contribution!
+   Includes (automated) localizations for Russian, Spanish and Chinese (traditional). If you know any of these languages,
+   please consider helping out with translations. Send all Thanks and Kudos to PiezPiedPy for this amazing contribution!
  * In-Flight trajectory vector line and ground marker persistence bug fixed.
  * ModuleManager updated to v3.0.3
  * When combined with FAR, aerodynamic forces calculated on a packed vessel would lead to NRE's.
